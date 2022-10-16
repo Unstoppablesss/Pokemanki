@@ -47,6 +47,7 @@
 }
 .pk-st-card-name {
     display: flex;
+    font-size: small;
     flex-direction: column;
 }
 .pk-st-card-lvl {
